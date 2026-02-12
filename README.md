@@ -1,4 +1,4 @@
-# COMP3516 HKU 2024 Fall
+# COMP3516 HKU 2025 Spring
 
 Welcome to COMP3516@HKU!
 
