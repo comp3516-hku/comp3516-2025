@@ -34,7 +34,6 @@ This course introduces basic concepts, technologies, and applications of the Int
 <br>
 **Note:** The assignments are tentative and subject to changes. More details to be announced. 
 
-
 <table>
     <tr>
         <th>Component</th>
